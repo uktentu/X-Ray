@@ -13,7 +13,7 @@
 
 # Maven / Java
 target/
-*.class
+#*.class
 *.jar
 *.war
 *.ear
